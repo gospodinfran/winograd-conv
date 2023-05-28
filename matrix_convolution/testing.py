@@ -1,4 +1,4 @@
-from main import calc_convolution
+from matrixConvolution import calc_convolution
 from tests import tests
 
 for test in tests:

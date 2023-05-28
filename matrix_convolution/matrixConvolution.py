@@ -1,4 +1,4 @@
-def calc_convolution(input_matrix, kernel):
+def matrix_convolution(input_matrix, kernel):
     input_rows = len(input_matrix)
     input_cols = len(input_matrix[0])
     kernel_rows = len(kernel)
